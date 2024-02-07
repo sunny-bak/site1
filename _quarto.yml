@@ -10,9 +10,11 @@ website:
       - about.md
 format:
   html:
-    theme: cosmo
+    theme: minty 
     css: styles.css
     toc: true
+execute:
+    freeze: auto
 
 
 
